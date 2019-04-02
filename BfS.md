@@ -1,4 +1,4 @@
-# Biuld from Source
+# Build from Source
 
 
 ‫خیلی از برنامه‌های اجرایی با زبان‌های c و fortran و … نوشته شده‌اند. 
