@@ -192,7 +192,7 @@
 
 ## منابع
 
-
+https://commons.wikimedia.org/wiki/File:Standard-unix-filesystem-hierarchy.svg
 
 https://www.itnso.com/zfs-%D8%AF%D8%B1-%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3/
 
